@@ -7,9 +7,9 @@
     "test": "mocha -R tap",
     "postinstall": "bower install"
   },
-   "engines": {
-    "node": ">=8.4.0",
-    "npm": ">=6.10.0"
+  "engines": {
+   "node": ">=8.4.0",
+   "npm": ">=6.10.0"
   },
   "directories": {
     "test": "test"
